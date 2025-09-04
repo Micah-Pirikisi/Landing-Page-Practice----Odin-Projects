@@ -60,7 +60,7 @@ nav a {
     width: 55rem; 
     height: auto;
     background-color: grey;
-    background: url(/resources/imgs/roko-labrovic-k_2yK3NCLx0-unsplash.jpg) center center / cover no-repeat;
+    background: url(../imgs/roko-labrovic-k_2yK3NCLx0-unsplash.jpg) center center / cover no-repeat;
 }
 
 .hero-text h1 {
@@ -131,28 +131,28 @@ nav a {
 .img-placeholder1 {
     height: 10rem;
     width: 100%;
-    background: url(/resources/imgs/james-dant-b-ICQv4ankE-unsplash.jpg) center center / cover no-repeat;
+    background: url(../imgs/james-dant-b-ICQv4ankE-unsplash.jpg) center center / cover no-repeat;
     border-radius: 0.5rem;
 }
 
 .img-placeholder2 {
     height: 10rem;
     width: 100%;
-    background: url(/resources/imgs/maksim-shutov-H8vhhepiiaU-unsplash.jpg) center center / cover no-repeat;
+    background: url(../imgs/maksim-shutov-H8vhhepiiaU-unsplash.jpg) center center / cover no-repeat;
     border-radius: 0.5rem;
 }
 
 .img-placeholder3 {
     height: 10rem;
     width: 100%;
-    background: url(/resources/imgs/nguy-n-hi-p-XnghWOMDuQs-unsplash.jpg) center center / cover no-repeat;
+    background: url(../imgs/nguy-n-hi-p-XnghWOMDuQs-unsplash.jpg) center center / cover no-repeat;
     border-radius: 0.5rem;
 }
 
 .img-placeholder4 {
     height: 10rem;
     width: 100%;
-    background: url(/resources/imgs/anukrati-omar-5dhSpwJcgE8-unsplash.jpg) center center / cover no-repeat;
+    background: url(../imgs/anukrati-omar-5dhSpwJcgE8-unsplash.jpg) center center / cover no-repeat;
     border-radius: 0.5rem;
 }
 
