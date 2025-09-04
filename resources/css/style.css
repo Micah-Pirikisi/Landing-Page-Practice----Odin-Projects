@@ -57,10 +57,10 @@ nav a {
 }
 
 .hero .img-container{
-    width: 50rem; 
+    width: 55rem; 
     height: auto;
-
     background-color: grey;
+    background: url(/resources/imgs/roko-labrovic-k_2yK3NCLx0-unsplash.jpg) center center / cover no-repeat;
 }
 
 .hero-text h1 {
@@ -88,6 +88,7 @@ nav a {
 
 .services {
     width: 100%;
+    padding: 0rem 0rem 2rem;
 }
 
 .services h2 {
@@ -127,9 +128,121 @@ nav a {
     font-size: 1.2rem;
 }
 
-.img-placeholder {
+.img-placeholder1 {
     height: 10rem;
     width: 100%;
-    border: 3px solid #3882F6;
+    background: url(/resources/imgs/james-dant-b-ICQv4ankE-unsplash.jpg) center center / cover no-repeat;
     border-radius: 0.5rem;
+}
+
+.img-placeholder2 {
+    height: 10rem;
+    width: 100%;
+    background: url(/resources/imgs/maksim-shutov-H8vhhepiiaU-unsplash.jpg) center center / cover no-repeat;
+    border-radius: 0.5rem;
+}
+
+.img-placeholder3 {
+    height: 10rem;
+    width: 100%;
+    background: url(/resources/imgs/nguy-n-hi-p-XnghWOMDuQs-unsplash.jpg) center center / cover no-repeat;
+    border-radius: 0.5rem;
+}
+
+.img-placeholder4 {
+    height: 10rem;
+    width: 100%;
+    background: url(/resources/imgs/anukrati-omar-5dhSpwJcgE8-unsplash.jpg) center center / cover no-repeat;
+    border-radius: 0.5rem;
+}
+
+/* mission */ 
+.mission {
+    width: 100%;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0rem;
+}
+
+.mission-container {
+    width: 50%;
+    text-align: center;
+}
+
+
+.mission-container p {
+    font-size: 2.2rem;
+    color: #1F2937;
+    font-weight: 300;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.mission-container span {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.author-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* appointment */ 
+.appointment {
+    width: 100%;
+    background-color: white;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0rem;
+}
+
+.appointment-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 0.5rem;
+    width: 70%;
+    padding: 2rem;
+}
+
+.appointment-text {
+    width: 80%;
+    margin-left: 4rem;
+}
+
+.appointment-container span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 5rem 0 0;
+}
+
+.appointment-container p {
+    margin-top: 0;
+    font-size: 1.2rem;
+    width: 90%;
+}
+
+.appointment-container button {
+    color: #E5E7EB; 
+    background-color: #3882F6;
+    border: 3px solid #E5E7EB;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    margin-right: 5rem;
+    width: 80%;
+}
+
+/* footer */ 
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 2.5rem;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
